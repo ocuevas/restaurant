@@ -1,0 +1,11 @@
+/home/elfuerte_dev/Codes/c#/project21/obj/Debug/netcoreapp2.2/project21.csprojAssemblyReference.cache
+/home/elfuerte_dev/Codes/c#/project21/obj/Debug/netcoreapp2.2/project21.csproj.CoreCompileInputs.cache
+/home/elfuerte_dev/Codes/c#/project21/obj/Debug/netcoreapp2.2/project21.AssemblyInfoInputs.cache
+/home/elfuerte_dev/Codes/c#/project21/obj/Debug/netcoreapp2.2/project21.AssemblyInfo.cs
+/home/elfuerte_dev/Codes/c#/project21/bin/Debug/netcoreapp2.2/project21.deps.json
+/home/elfuerte_dev/Codes/c#/project21/bin/Debug/netcoreapp2.2/project21.runtimeconfig.json
+/home/elfuerte_dev/Codes/c#/project21/bin/Debug/netcoreapp2.2/project21.runtimeconfig.dev.json
+/home/elfuerte_dev/Codes/c#/project21/bin/Debug/netcoreapp2.2/project21.dll
+/home/elfuerte_dev/Codes/c#/project21/bin/Debug/netcoreapp2.2/project21.pdb
+/home/elfuerte_dev/Codes/c#/project21/obj/Debug/netcoreapp2.2/project21.dll
+/home/elfuerte_dev/Codes/c#/project21/obj/Debug/netcoreapp2.2/project21.pdb
