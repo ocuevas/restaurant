@@ -1,4 +1,7 @@
 $ cat .gitignore
 /bin
 /obj
+<<<<<<< HEAD
 #obj
+=======
+>>>>>>> 0f8b7e87ceade4b1f3be60f870bcd5169f323b1c
